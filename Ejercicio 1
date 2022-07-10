@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Ejercicio de Introducción a HTML en OpenBootcamp </title>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
     </head>
 
     <body>
@@ -10,7 +10,7 @@
 
         <div>
             <ul>
-                <li > <a href="https://www.youtube.com/watch?v=g65oWFMSoK0"  > Mari Samuelsen: Vivaldi - "Summer" from Four Seasons</a> </li>
+                <li><a href="https://www.youtube.com/watch?v=g65oWFMSoK0"> Mari Samuelsen: Vivaldi - "Summer" from Four Seasons</a></li>
                 <li><a href="https://www.youtube.com/watch?v=OjOymTNuE3Q">Los 4 principios para construir DISCIPLINA según Marco Aurelio y Séneca | Estoicismo paso a paso</a></li>
                 <li><a href="https://www.youtube.com/watch?v=0PET7imkXWU">Rutina rápida 7 minutos - CARDIO HIIT - La rutina científica</a></li>
             </ul>
