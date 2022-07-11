@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>El cerebro</td>
+                <td>David Eagleman</td>
+                <td>2017</td>
+                <td><a href="https://www.amazon.es/El-cerebro-Argumentos-David-Eagleman-ebook/dp/B0711L55LL/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1K29PEVQND3FO&keywords=david+eagleman+el+cerebro&qid=1657557792&sprefix=david+eagleman+el+cerebro%2Caps%2C137&sr=8-1">Cómpralo aquí</a></td>
+            </tr>
+            <tr>
+                <td>El tercer chimpancé: Origen y futuro del animal humano</td>
+                <td>Jared Diamond</td>
+                <td>1991</td>
+                <td><a href="https://www.amazon.es/El-tercer-chimpanc%C3%A9-Origen-ENSAYO-CIENCIA/dp/8483467496/ref=sr_1_1?keywords=el+tercer+chimpance&qid=1657558126&sprefix=el+tercer+ch%2Caps%2C153&sr=8-1">Cómpralo aquí</a></td>
+            </tr>
+            <tr>
+                <td>Encuentra tu persona vitamina</td>
+                <td>Marian Rojas Estapé</td>
+                <td>2021</td>
+                <td><a href="https://www.amazon.es/Encuentra-persona-vitamina-F-COLECCION/dp/8467062215/ref=sr_1_1?keywords=persona+vitamina+marian+rojas&qid=1657558381&sprefix=persona+vit%2Caps%2C157&sr=8-1">Cómpralo aquí</a></td>
+            </tr>
+
+
+        </table>
+    </body>
+
+</html>
