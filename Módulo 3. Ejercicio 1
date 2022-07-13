@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <section>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWWbyURd2pVcDHUYWS8yzaSatuxrgP-o3oA&usqp=CAU" alt="Brawl Stars">
+        </section>
+        <section>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="400" height="400" controls autoplay muted loop>
+                <source src="criptomonedas.mp4" type="video/mp4">
+            </video>
+        </section>
+        <section>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="Moonlight - Take A Chance.mp3" type="audio/mp3">
+            </audio>
+        </section>
+    </body>
+</html>
